@@ -30,28 +30,6 @@
                 "design": "Digital art and character design in free time using Illustrator"
               }
             ]
-          },
-          {
-            "id": 1,
-            "name": "Pulled Mooshie",
-            "restaurant": "Mooshies",
-            "web": "www.veganburger.org",
-            "description": "Spicy vegan burger with jackfruit",
-            "ingredients": [
-              "jackfruit",
-              "coleslaw",
-              "gluten free bun"
-            ],
-            "addresses": [
-              {
-                "addressId": 0,
-                "number": "104",
-                "line1": "Brick Lane",
-                "line2": "Shoreditch",
-                "postcode": "E1 6RL",
-                "country": "United Kingdom"
-              }
-            ]
           }
     ]
 }
