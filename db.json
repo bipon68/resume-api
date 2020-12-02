@@ -1,0 +1,57 @@
+{
+    "resume": [
+        {
+            "id": 0,
+            "name": "About",
+            "description": "I describe my self as someone who's persistent, a quick learner and loves problem solving by using simple and scalable solutions.",
+            "offer": [
+              {
+                "offerId": 0,
+                "frontend": "I can built a beautiful and scalable SPA using HTML,CSS and React.js"
+              },
+              {
+                "offerId": 1,
+                "backend": "handle database, server, api using django and SQLlite"
+              },
+              {
+                "offerId": 2,
+                "api": "handle database, server, api using django and SQLlite"
+              },
+              {
+                "offerId": 3,
+                "algods": "a daily problem solver in HackerRank and Leetcode"
+              },
+              {
+                "offerId": 4,
+                "uiux": "minimalistic user interface designer using figma and framer"
+              },
+              {
+                "offerId": 5,
+                "design": "Digital art and character design in free time using Illustrator"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "name": "Pulled Mooshie",
+            "restaurant": "Mooshies",
+            "web": "www.veganburger.org",
+            "description": "Spicy vegan burger with jackfruit",
+            "ingredients": [
+              "jackfruit",
+              "coleslaw",
+              "gluten free bun"
+            ],
+            "addresses": [
+              {
+                "addressId": 0,
+                "number": "104",
+                "line1": "Brick Lane",
+                "line2": "Shoreditch",
+                "postcode": "E1 6RL",
+                "country": "United Kingdom"
+              }
+            ]
+          }
+    ]
+}
